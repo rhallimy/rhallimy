@@ -2,6 +2,12 @@
 
 ╰► Hello World! 
 
+<div aling='center'>
+0:58 ━━━━●─────────  3:29
+
+⇆       ◁ㅤㅤ❚❚ㅤㅤ▷       ↻
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <div>
