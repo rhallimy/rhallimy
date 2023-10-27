@@ -1,8 +1,12 @@
 •✦──────────────────────────────────────────────────────────•
 
-╰► Hello World! 
+╭┈˖⋆ ❁────
 
-┊͙✧˖*°࿐1st year IT student at the Instituto Federal Campus Rio Pomba.  
+┊ ˖⋆࿐໋₊ ☆
+
+╰┄───➤ °♡•.► Hello World! 
+
+┊͙✧˖*°࿐1st year IT student at the Instituto Federal Campus Rio Pomba. 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
