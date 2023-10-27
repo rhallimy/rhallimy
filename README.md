@@ -2,9 +2,11 @@
 
 ╰► Hello World! 
 
-0:58 ━━━━●─────────  3:29
+●───────────────
 
-   ⇆       ◁ㅤㅤ❚❚ㅤㅤ▷       ↻
+0:00                                     3:29
+
+◂◂           ∎∎           ▸▸
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
